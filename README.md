@@ -3,3 +3,17 @@ This is a project from (The Odin Project). i am building a Landing page as part 
 
 # Live-Preview
 https://emmanuelochepo.github.io/Project-Landing-v2/
+
+# Technologies Used
+HTML5
+CSS3
+
+# Features 
+Layout section (Header, hero, testimonial & Footer).
+Interactive elements (buttons & links)
+
+# Screenshot
+![Landing Page Screenshot](./images/hero-img.jpg)
+
+# Credits
+This is a project from The Odin Project.
